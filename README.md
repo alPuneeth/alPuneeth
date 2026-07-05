@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Puneeth
 
-<!--
-**alPuneeth/alPuneeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building web APIs | Creator of **EazyBill** | Learning frontend development via The Odin Project
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Open‑Source Contributions
+- [Fix typo in image attribution instructions (#31217)](https://github.com/TheOdinProject/curriculum/pull/31217) – Merged into The Odin Project curriculum
+
+---
+
+### 🧰 Skills & Tools
+- Python · FastAPI · Docker · PostgreSQL · SQLAlchemy · SQLModel · JWT · Pytest · Git · HTML 
+---
+
+### 🚀 Projects
+- [**EazyBill**](https://github.com/alPuneeth/eazy_bill) – Cable TV billing and subscriber management backend serving 400+ subscribers  
+  Tech stack: Python, Docker, SQLAlchemy, JWT, PostgreSQL, Pytest
+  
+
+---
+
+### 📫 Contact
+- Email: puneeth.fcv@gmail.com
