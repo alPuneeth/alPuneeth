@@ -6,6 +6,7 @@ Building web APIs | Creator of **EazyBill** | Learning frontend development via 
 
 ### 🧠 Open‑Source Contributions
 - [Fix typo in image attribution instructions (#31217)](https://github.com/TheOdinProject/curriculum/pull/31217) – Merged into The Odin Project curriculum
+- [Reported typo in Chrome DevTools documentation](https://issues.chromium.org/issues/533717655) – Fixed and verified by Google
 
 ---
 
