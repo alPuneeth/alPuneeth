@@ -22,4 +22,4 @@ Building web APIs | Creator of **EazyBill** | Learning frontend development via 
 ---
 
 ### 📫 Contact
-- Email: puneeth.fcv@gmail.com
+- Email: puneeth.dev@outlook.com
